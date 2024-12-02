@@ -1,4 +1,4 @@
-# <font color="FFA500"> Incheon National University </font>
+# <font color="FFA500"> Incheon National University2 </font>
 ## Distributed Systems and Web Engineering
 ## Linux System
 I love **Linux Class**
